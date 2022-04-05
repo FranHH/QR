@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="QR.MainPage">
+    <!--<ContentPage.ToolbarItems>
+        <ToolbarItem Text="Historial"
+                     Order="Primary"
+                     Priority="0"
+                     Clicked="btnHistory"/>
+    </ContentPage.ToolbarItems>-->
+    
+    <ContentPage.Content>
+        <Grid>
+            <Image Source="icon.png" Aspect="AspectFill"/>
+            <BoxView Color="AntiqueWhite" Opacity="0.8"/>
+            
+            <StackLayout VerticalOptions="Center" Margin="20">
+                <Entry x:Name="txtBarCode" IsEnabled="False" />
+                <Button x:Name="btnScan" Text="Escanear" Clicked="btnScan_Clicked" BorderRadius="20" TextColor="White" BackgroundColor="Black"/>
+                <Label Text="By FranDev" TextColor="Black"/>
+            </StackLayout>
+            
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

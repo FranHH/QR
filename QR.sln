@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QR.Android", "QR\QR.Android\QR.Android.csproj", "{1D678097-B96F-403B-8BCF-0C71DCFFEBE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QR", "QR\QR\QR.csproj", "{669A7EF9-B51B-4507-AD85-D94B4D723C16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D678097-B96F-403B-8BCF-0C71DCFFEBE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D678097-B96F-403B-8BCF-0C71DCFFEBE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D678097-B96F-403B-8BCF-0C71DCFFEBE4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1D678097-B96F-403B-8BCF-0C71DCFFEBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D678097-B96F-403B-8BCF-0C71DCFFEBE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D678097-B96F-403B-8BCF-0C71DCFFEBE4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{669A7EF9-B51B-4507-AD85-D94B4D723C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669A7EF9-B51B-4507-AD85-D94B4D723C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669A7EF9-B51B-4507-AD85-D94B4D723C16}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{669A7EF9-B51B-4507-AD85-D94B4D723C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669A7EF9-B51B-4507-AD85-D94B4D723C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{669A7EF9-B51B-4507-AD85-D94B4D723C16}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CC259EC-C3EF-43A4-9636-A68925E67DB7}
+	EndGlobalSection
+EndGlobal

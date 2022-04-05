@@ -1,0 +1,16 @@
+C:\ots\CopiaSeg(Estable)\QR\QR\QR\bin\Debug\netstandard2.0\QR.deps.json
+C:\ots\CopiaSeg(Estable)\QR\QR\QR\bin\Debug\netstandard2.0\QR.dll
+C:\ots\CopiaSeg(Estable)\QR\QR\QR\bin\Debug\netstandard2.0\ref\QR.dll
+C:\ots\CopiaSeg(Estable)\QR\QR\QR\bin\Debug\netstandard2.0\QR.pdb
+C:\ots\CopiaSeg(Estable)\QR\QR\QR\obj\Debug\netstandard2.0\QR.csproj.AssemblyReference.cache
+C:\ots\CopiaSeg(Estable)\QR\QR\QR\obj\Debug\netstandard2.0\QR.GeneratedMSBuildEditorConfig.editorconfig
+C:\ots\CopiaSeg(Estable)\QR\QR\QR\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\ots\CopiaSeg(Estable)\QR\QR\QR\obj\Debug\netstandard2.0\QR.AssemblyInfoInputs.cache
+C:\ots\CopiaSeg(Estable)\QR\QR\QR\obj\Debug\netstandard2.0\QR.AssemblyInfo.cs
+C:\ots\CopiaSeg(Estable)\QR\QR\QR\obj\Debug\netstandard2.0\QR.csproj.CoreCompileInputs.cache
+C:\ots\CopiaSeg(Estable)\QR\QR\QR\obj\Debug\netstandard2.0\XamlC.stamp
+C:\ots\CopiaSeg(Estable)\QR\QR\QR\obj\Debug\netstandard2.0\QR.dll
+C:\ots\CopiaSeg(Estable)\QR\QR\QR\obj\Debug\netstandard2.0\ref\QR.dll
+C:\ots\CopiaSeg(Estable)\QR\QR\QR\obj\Debug\netstandard2.0\QR.pdb
+C:\ots\CopiaSeg(Estable)\QR\QR\QR\obj\Debug\netstandard2.0\Views\History.xaml.g.cs
+C:\ots\CopiaSeg(Estable)\QR\QR\QR\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs

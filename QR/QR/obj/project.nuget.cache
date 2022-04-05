@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "YIH6LtOS33Jg7wWjLsDM8bn5gjaiNj23dCR4j9j20q3KKLsEP4xRbtKqKRoaCRZ18UCFTF0VwJ9GC4VzgvUWrw==",
+  "success": true,
+  "projectFilePath": "C:\\ots\\CopiaSeg(Estable)\\QR\\QR\\QR\\QR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fjperez\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\fjperez\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\fjperez\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "C:\\Users\\fjperez\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512",
+    "C:\\Users\\fjperez\\.nuget\\packages\\zxing.net.mobile.forms\\2.4.1\\zxing.net.mobile.forms.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
